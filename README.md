@@ -1,17 +1,16 @@
-# btlt6
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cau 1 : 
+![Cau1](lib/Cau1/Cau1-1.png)
+![Cau1](lib/Cau1/Cau1-2.png)
+Cau 2 : 
+![Cau2](lib/Cau2/Cau2-1.png)
+![Cau2](lib/Cau2/Cau2-2.png)
+Cau 3 : 
+![Cau3](lib/Cau3/Cau3-1.png)
+![Cau3](lib/Cau3/Cau3-2.png)
+Cau 4 : 
+![Cau4](lib/Cau4/Cau4-1.png)
+![Cau4](lib/Cau4/Cau4-2.png)
+Cau 5 : 
+![Cau5](lib/Cau5/Cau5-1.png)
+![Cau5](lib/Cau5/Cau5-2.png)
+![Cau5](lib/Cau5/Cau5-3.png)
